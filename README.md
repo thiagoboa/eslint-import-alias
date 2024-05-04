@@ -29,6 +29,9 @@ Configure
 
 ```javascript
 {
+  "plugins": [
+    "import-alias"
+  ],
   "rules": {
     "import-alias/import-alias": [
       "error",
